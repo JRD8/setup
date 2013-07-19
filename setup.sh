@@ -52,7 +52,7 @@ sudo apt-get install -y nodejs
 npm install
 
 # Install Github
-sudo apt-get install -y git core
+sudo apt-get install -y git-core
 
 
 
