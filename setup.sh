@@ -53,7 +53,7 @@ npm install
 
 # Registered GitHub globals
 git config --global user.name "JRD8"
-git config --global user.email "jdforbew@gmail.com
+git config --global user.email "jdforbew@gmail.com"
 
 
 
