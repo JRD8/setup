@@ -49,7 +49,6 @@ sudo apt-get install -y python-software-properties python g++ make
 sudo add-apt-repository ppa:chris-lea/node.js
 sudo apt-get update
 sudo apt-get install -y nodejs
-npm install
 
 # Registered GitHub globals
 git config --global user.name "JRD8"
