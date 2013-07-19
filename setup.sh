@@ -51,8 +51,10 @@ sudo apt-get update
 sudo apt-get install -y nodejs
 npm install
 
-# Install Github
-sudo apt-get install -y git-core
+# Registered GitHub globals
+git config --global user.name "JRD8"
+git config --global user.email "jdforbew@gmail.com
+
 
 
 
