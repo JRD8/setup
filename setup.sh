@@ -54,6 +54,10 @@ sudo apt-get install -y nodejs
 git config --global user.name "JRD8"
 git config --global user.email "jdforbew@gmail.com"
 
+# Install Heroku
+wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
+
+
 
 
 
